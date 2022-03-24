@@ -1,4 +1,4 @@
-# Desafio Power BI - Quantidade de Meses Selecionados até a Data Atual
+# Contabilizar a quantidade de meses selecionados até a data atual em um filtro no power bi
 
 ## Introdução ao desafio
 
