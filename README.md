@@ -71,14 +71,14 @@ Espero que tenham gostado da resolução deste desafio.
 
 ## Links da documentação oficial das funções utilizadas
 
-- <a href="https://docs.microsoft.com/en-us/dax/today-function-dax"> TODAY() </a>
-- <a href="https://docs.microsoft.com/en-us/dax/day-function-dax"> DAY() </a>
-- <a href="https://docs.microsoft.com/EN-US/dax/format-function-dax"> FORMAT()</a>
-- <a href="https://docs.microsoft.com/en-us/dax/int-function-dax"> INT()</a>
-- <a href="https://docs.microsoft.com/en-us/dax/values-function-dax"> VALUES()</a>
-- <a href="https://docs.microsoft.com/en-us/dax/calculatetable-function-dax"> CALCULATETABLE()</a>
-- <a href="https://docs.microsoft.com/en-us/dax/filter-function-dax"> FILTER() </a>
-- <a href="https://docs.microsoft.com/en-us/dax/countrows-function-dax"> COUNTROWS() </a> 
+- <a href="https://docs.microsoft.com/en-us/dax/today-function-dax" target="_blank"> TODAY() </a>
+- <a href="https://docs.microsoft.com/en-us/dax/day-function-dax" target="_blank"> DAY() </a>
+- <a href="https://docs.microsoft.com/EN-US/dax/format-function-dax" target="_blank"> FORMAT()</a>
+- <a href="https://docs.microsoft.com/en-us/dax/int-function-dax" target="_blank"> INT()</a>
+- <a href="https://docs.microsoft.com/en-us/dax/values-function-dax" target="_blank"> VALUES()</a>
+- <a href="https://docs.microsoft.com/en-us/dax/calculatetable-function-dax" target="_blank"> CALCULATETABLE()</a>
+- <a href="https://docs.microsoft.com/en-us/dax/filter-function-dax" target="_blank"> FILTER() </a>
+- <a href="https://docs.microsoft.com/en-us/dax/countrows-function-dax" target="_blank"> COUNTROWS() </a> 
 
 
 
